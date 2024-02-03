@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/glsdefibravo/static/css/main.1e4991bc.css",
-    "main.js": "/glsdefibravo/static/js/main.3df7b322.js",
+    "main.js": "/glsdefibravo/static/js/main.0f524bfc.js",
     "static/js/156.a84460b3.chunk.js": "/glsdefibravo/static/js/156.a84460b3.chunk.js",
     "static/js/216.d4be1217.chunk.js": "/glsdefibravo/static/js/216.d4be1217.chunk.js",
     "static/js/920.8be42aa5.chunk.js": "/glsdefibravo/static/js/920.8be42aa5.chunk.js",
@@ -42,11 +42,11 @@
     "static/media/image13.png": "/glsdefibravo/static/media/image13.824f4707ffe281d37782.png",
     "static/media/image9.png": "/glsdefibravo/static/media/image9.69623c0648d5acd1cf2c.png",
     "static/media/image5.png": "/glsdefibravo/static/media/image5.3e1f21a725fa9f87ad05.png",
-    "static/media/logo.svg": "/glsdefibravo/static/media/logo.fdf4a5379a45c2bd55f37b9b99be3da8.svg",
+    "static/media/logo.svg": "/glsdefibravo/static/media/logo.e359d42ccebe62fd41f60a8b350068be.svg",
     "index.html": "/glsdefibravo/index.html"
   },
   "entrypoints": [
     "static/css/main.1e4991bc.css",
-    "static/js/main.3df7b322.js"
+    "static/js/main.0f524bfc.js"
   ]
 }
