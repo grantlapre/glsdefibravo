@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import {useWeb3Contract} from 'react-moralis';
 import { useMoralis } from "react-moralis";
-import {abi} from '../constants/abi.json';
+import {abi} from '../constants/abi';
 
 export default function Amount() {
 const {runContractFunction} = useWeb3Contract();
