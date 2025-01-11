@@ -30,7 +30,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Real World Asset Tokenization NFT  
+          Bushida...Integrity...Trust NFT  
         </p>       
         <Cards />
         <a
@@ -39,7 +39,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          GLSDefi Bravo Project Launching 17/2/2024
+          GLSDefi Bravo Project Launching tba
         </a>
       </header>
       
